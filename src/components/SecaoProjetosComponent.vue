@@ -11,8 +11,8 @@
           <img src="../assets/HomepageKirashop.png" alt="Projeto 3" class="mb-4 rounded-md w-full object-cover h-40" />
 
           <h3 class="mb-2 text-2xl font-bold text-white">Kirashop</h3>
-          <p class="text-gray-300 mb-4 px-4">Criação de um e-commerce, juntamente com uma API em C# para CRUD e
-            filtragem dos produtos</p>
+          <p class="text-gray-300 mb-4 px-4">Criação de um e-commerce, com foco em Front-end e integração de API em C# para CRUD e
+            filtragem dos produtos.</p>
 
           <div class="flex gap-5 mt-3">
             <i class="fa-brands fa-html5 text-2xl text-blue-300 rounded-full bg-blue-900 w-10 h-10 items-center justify-center flex"></i>
